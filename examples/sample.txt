@@ -1,0 +1,3 @@
+A small tree gives frequent symbols short codes. This sample belongs to the coding example.
+Read the text, count the symbols, build the tree, encode the message, and recover the cleaned text.
+Compare the code lengths for repeated letters, spaces, and punctuation: 12345!
